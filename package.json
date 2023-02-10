@@ -1,0 +1,17 @@
+{
+  "name": "net-simulator",
+  "version": "1.0.0",
+  "description": "Computer simulation game",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js",
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "eruda": "^2.10.0"
+  }
+}
